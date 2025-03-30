@@ -12,7 +12,7 @@ You can access this app using the link: https://crime-data-visualization-and-pre
 
 ### File Details
 
-- **Competition_Dataset.csv**: - Crime dataset (must contain Latitude, Longitude, Category, Descript columns)
+- **Competition_Dataset.csv**: - Crime dataset used to Pre-trained ML model.
 
 - **Data Analysis & Modeling.ipynb**: including all exploratory data analysis, preprocessing steps, model training, evaluation, and any visualizations (Level 1 and 2).
 
