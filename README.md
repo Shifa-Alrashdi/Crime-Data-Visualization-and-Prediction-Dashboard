@@ -30,24 +30,24 @@ You can access this app using the link: https://crime-data-visualization-and-pre
 
 ## Usage Guide
 - Crime Visualization
-Select a crime category from the dropdown
+   - Select a crime category from the dropdown
 
-View the interactive map with crime locations
+   - View the interactive map with crime locations
 
-Toggle between heatmap and marker cluster views
+   - Toggle between heatmap and marker cluster views
 
 - Report Analysis
-Upload a police report PDF
+   - Upload a police report PDF
 
-View extracted report data
+   - View extracted report data
 
-See AI-generated predictions for:
+   - See AI-generated predictions for:
 
-   - Crime category
+      - Crime category
 
-   - Severity level (1-5 scale)
+      - Severity level (1-5 scale)
 
-View incident location on map (if coordinates available)
+   - View incident location on map (if coordinates available)
 
 ## Access deployed application
 
